@@ -1,6 +1,6 @@
-# Crew Bot
+# BotSer
 </p>
 
-```Masih testing, klo ada bug/error langsung lapor owner, scnya encrypt "Sementara"```
+```On Testing More Features Will Come Soon"```
 
 [*✆ contact*](https://chat.whatsapp.com/IOVK5UkKVS31Ad1205zeaX)
